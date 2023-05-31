@@ -1,4 +1,4 @@
-[![MasterHead](https://dpbnri2zg3lc2.cloudfront.net/en/wp-content/uploads/2019/12/data-analyst-colleagues-in-office.jpeg)
+![MasterHead](https://dpbnri2zg3lc2.cloudfront.net/en/wp-content/uploads/2019/12/data-analyst-colleagues-in-office.jpeg)
 <h1 align="center">Hi 👋, I'm Muhammad Asif</h1>
 <h3 align="center">A passionate Data Analyst from Pakistan</h3>
 
